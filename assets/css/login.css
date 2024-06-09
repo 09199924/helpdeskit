@@ -1,0 +1,12 @@
+body{
+    background-image: url(../img/bg1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.kartulogin{
+    background: #ffffff48;
+    border-radius: 2% 20% 2% 20%;
+ 
+
+}

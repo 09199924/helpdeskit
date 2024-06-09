@@ -1,0 +1,13 @@
+.maintenance-img {
+  width: 90px;
+  margin-left: 20px; /* Atur margin kiri sesuai kebutuhan */
+  margin-right: 10px; /* Tambahkan margin kanan jika perlu */
+}
+
+.sdb-carddashboard {
+  /* Tambahkan gaya khusus untuk elemen dengan kelas sdb-carddashboard di sini */
+}
+
+.gerak {
+  /* Tambahkan gaya khusus untuk elemen dengan kelas gerak di sini */
+}

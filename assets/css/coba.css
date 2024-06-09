@@ -1,0 +1,15 @@
+
+.nav-item .nav-link{
+    color :#bce6ff;
+    transition : transform 1s ease ;
+
+}
+
+.nav-item .nav-link:hover {
+    transform : translate(20px);    
+    color :#ffffff;
+}
+
+.sdb-coba , .judull{
+    background : linear-gradient(to right bottom, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
